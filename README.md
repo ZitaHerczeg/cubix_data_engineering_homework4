@@ -20,7 +20,23 @@ Notebook: aws_athena_queriea.ipynb
 ### 5. Visualization from local computer
 Notebook: local_visualization.ipynb
 
-![10 companies make the most money](./images/image.png)
+Chart 1: Revenue of the companies (boxplot)
+![alt text](./images/image1.png)
+
+Chart 2: Revenue of the top 10 companies (barchart)
+![10 companies make the most money](./images/image2.png)
+
+Chart 3: Revenue of the top 10 companies (areachart)
+![alt text](./images/image3.png)
+
+Chart 4: Number of rides by days of week of the top 2 companies
+![alt text](./images/image4.png)
+
+Chart 5: Number of rides of top 10 companies
+![alt text](./images/image5.png)
+
+Chart 5: 
+
 
 ## Requirements:
 1. Python 3.10.0 
